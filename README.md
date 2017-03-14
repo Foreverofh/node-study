@@ -5,3 +5,4 @@
 - MongoDB的安装与启动：https://segmentfault.com/a/1190000004071817
 - Mongoose学习参考文档：https://cnodejs.org/topic/504b4924e2b84515770103dd
 - ejs模板引擎的基本使用：http://www.cnblogs.com/xuanhun/p/3922847.html
+- MongoDB的下载、安装与部署(管理员启动cmd): http://www.tuicool.com/articles/3iauMrj
