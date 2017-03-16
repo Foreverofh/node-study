@@ -4,7 +4,7 @@
 var http = require('http');
 var fs = require('fs');
 http.createServer(function (req, res) {
-    res.writeHead(200,{'Content-type':"image/png"});
+    res.writeHead(200, {'Content-type': "image/png"});
     fs.createReadStream('img.png').pipe(res);
 
 }).listen(8080);
@@ -19,3 +19,4 @@ console.log('服务器已经启动');
 //
 // sleep(3000);
 // console.log('阻塞三秒');
+
