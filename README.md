@@ -7,8 +7,10 @@
 - Mongoose学习参考文档：https://cnodejs.org/topic/504b4924e2b84515770103dd
 - ejs模板引擎的基本使用：http://www.cnblogs.com/xuanhun/p/3922847.html
 - MongoDB的下载、安装与部署(管理员启动cmd): http://www.tuicool.com/articles/3iauMrj
-- express-session使用 http://www.cnblogs.com/xiashan17/p/5897282.html
-
+- express-session使用 http://blog.csdn.net/u012679583/article/details/50510717
+- 密码加密 http://blog.csdn.net/zccz14/article/details/51601056
+- connect-mongo, session存放在mongodb里 https://www.npmjs.com/package/connect-mongo
+- mongodb学习文章 https://www.smohan.net/blog/c/580e369f6dd7c320d45984af (不错的博客页面)
 
 
 - node.js基本模块(BUffer=>数据变成二进制,Stream=>操作大文件时候变成流,File System=>操作文件(fs),Path=>操作路径)
