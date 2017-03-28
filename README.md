@@ -11,7 +11,8 @@
 - 密码加密 http://blog.csdn.net/zccz14/article/details/51601056
 - connect-mongo, session存放在mongodb里 https://www.npmjs.com/package/connect-mongo
 - mongodb学习文章 https://www.smohan.net/blog/c/580e369f6dd7c320d45984af (不错的博客页面)
-
+- mongoose http://www.cnblogs.com/jayruan/p/5123754.html
+- token https://segmentfault.com/a/1190000008629632
 
 - node.js基本模块(BUffer=>数据变成二进制,Stream=>操作大文件时候变成流,File System=>操作文件(fs),Path=>操作路径)
 - 常用中间件
