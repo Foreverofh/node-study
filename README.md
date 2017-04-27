@@ -1,6 +1,7 @@
 # node-study
 学习node.js资料
 - node.js实战  http://nodejs.ucdok.com/
+- mongoose学习 http://sodino.com/2016/06/01/nodejs-mongoose-save/
 - node.js学习路线 http://blog.csdn.net/xllily_11/article/details/50482468
 - 七天学会node.js http://nqdeng.github.io/7-days-nodejs/#1.1
 - Express 4.x API中文手册：http://www.expressjs.com.cn/4x/api.html
