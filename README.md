@@ -1,5 +1,6 @@
 # node-study
 学习node.js资料
+- 手把手教你使用git和githuhttp://www.jianshu.com/p/ea9b7e44d731b  
 - git和svn基本操作 http://blog.jobbole.com/108834/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
 - 表单验证(策略模式): https://github.com/jawil/blog/issues/19 
 - node.js实战  http://nodejs.ucdok.com/
